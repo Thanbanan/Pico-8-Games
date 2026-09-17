@@ -1,4 +1,4 @@
-Obviously these are just the files and wont run, but you already new that
+Obviously these are just the files and wont run, but you already knew that
 
 Go to:
 https://www.pico-8-edu.com/
